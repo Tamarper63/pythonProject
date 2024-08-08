@@ -1,3 +1,5 @@
 requests==2.32.3
 jsonschema==4.23.0
 pytest==8.2.2
+
+PyYAML~=6.0.2
